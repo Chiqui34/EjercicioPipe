@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'EjercicioPipe';
+  title = 'Ejercicio Pipe';
+
+  arrayTelefono = ["652666666",
+  "680777896",
+  " 7897 4  5632",
+  "656 56 89 71"];
 }
